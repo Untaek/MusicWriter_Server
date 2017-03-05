@@ -1,0 +1,13 @@
+{
+
+    "autoload": {
+		    "psr-0": {
+	            "MyApp": "tcp"
+	        }
+	 },
+	"require": {
+		"cboden/ratchet": "0.3.*"
+	}
+}
+
+
